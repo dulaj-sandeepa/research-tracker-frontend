@@ -49,7 +49,7 @@ The application will start, usually accessible at http://localhost:5173 or the U
 
 ---
 
-## 🧪 Build for Production
+##  Build for Production
 
 To compile and optimize the frontend application for production deployment, run:
 npm run build
