@@ -4,7 +4,7 @@ This is the frontend client application for the Research Tracker project, built 
 
 ---
 
-## 🛠️ Tech Stack & Features
+##  Tech Stack & Features
 
 - Framework: React (via Vite build tool)
 - Styling: Responsive CSS layout
@@ -13,7 +13,7 @@ This is the frontend client application for the Research Tracker project, built 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 The project follows a standard modern frontend React architecture:
 
@@ -26,7 +26,7 @@ src/
 
 ---
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 Before running the user interface locally, ensure you have:
 - Node.js (Version 18 or higher recommended)
@@ -35,7 +35,7 @@ Before running the user interface locally, ensure you have:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Install Dependencies
 Open your terminal inside this root frontend directory and run:
